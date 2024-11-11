@@ -22,7 +22,7 @@ Make sure you have the following libraries installed:
 pip install torch transformers datasets numpy scikit-learn tqdm
 
 
----
+
 
 ### Project Structure
 
@@ -57,7 +57,6 @@ pip install torch transformers datasets numpy scikit-learn tqdm
    ```bash
    git clone https://github.com/yourusername/transformer-sentiment-classifier.git
    cd transformer-sentiment-classifier
-   ```
 
 2. **Train the Model**:
    ```bash
