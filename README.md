@@ -1,6 +1,6 @@
 Certainly! Below is the entire README in code format, as you requested:
 
-```markdown
+
 # Transformer-based Sentiment Classifier
 
 🎬 **Sentiment Analysis with Transformers** 🎬  
@@ -20,7 +20,7 @@ This project uses a custom Transformer model for binary sentiment classification
 Make sure you have the following libraries installed:
 ```bash
 pip install torch transformers datasets numpy scikit-learn tqdm
-```
+
 
 ---
 
