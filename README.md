@@ -18,7 +18,7 @@ This project uses a custom Transformer model for binary sentiment classification
 
 ### Prerequisites
 Make sure you have the following libraries installed:
-```bash
+
 pip install torch transformers datasets numpy scikit-learn tqdm
 
 
